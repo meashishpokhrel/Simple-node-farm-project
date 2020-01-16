@@ -1,0 +1,8 @@
+This is node js Tutorial i.e. Bootcamp notes
+
+/********Section 2 node Farm*********/
+
+`` this is called template string. It is an es6 syntax used fot textOut.
+
+
+/************************************/
